@@ -13,7 +13,7 @@ INCLUDE ZTESTE_CORDEIRO_05_SRC.        "Tela de seleção
 INCLUDE ZTESTE_CORDEIRO_05_F.          "Rotinas
 
 START-OF-SELECTION.
-  gs_dados-nome  = nome.               " Assign input values to structure fields
+  gs_dados-nome  = nome.               
   gs_dados-email = email.
   gs_dados-cpf   = cpf.
 
